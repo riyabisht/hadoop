@@ -1,3 +1,0 @@
-Apple   3
-Banana  3
-Grapes  2
